@@ -44,3 +44,10 @@ done
 %files
 %doc README
 %{_bindir}/hocr-*
+
+
+%changelog
+* Fri Nov 11 2011 Andrey Smirnov <asmirnov@mandriva.org> 20091007-1
++ Revision: 730075
+- imported package hocr-tools
+
