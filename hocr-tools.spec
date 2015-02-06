@@ -1,6 +1,6 @@
 Name:		hocr-tools
 Version:	20091007
-Release:	1
+Release:	2
 Summary:	Tools for manipulating and evaluating the hOCR format
 Group:		Office
 License:	Apache License
